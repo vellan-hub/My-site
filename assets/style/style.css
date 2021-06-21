@@ -563,6 +563,7 @@ input:checked + label{
 }
 @media (max-width:993px) {
     body {
+        overflow-x: hidden;
         font-size: 2.5vw;
     }
     header {
